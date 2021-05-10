@@ -1,0 +1,13 @@
+C:\Users\Dylan\Desktop\Dod-Gy\obj\Debug\netcoreapp3.1\Dod-Gy.csprojAssemblyReference.cache
+C:\Users\Dylan\Desktop\Dod-Gy\obj\Debug\netcoreapp3.1\Dod-Gy.AssemblyInfoInputs.cache
+C:\Users\Dylan\Desktop\Dod-Gy\obj\Debug\netcoreapp3.1\Dod-Gy.AssemblyInfo.cs
+C:\Users\Dylan\Desktop\Dod-Gy\obj\Debug\netcoreapp3.1\Dod-Gy.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Desktop\Dod-Gy\bin\Debug\netcoreapp3.1\Dod-Gy.exe
+C:\Users\Dylan\Desktop\Dod-Gy\bin\Debug\netcoreapp3.1\Dod-Gy.deps.json
+C:\Users\Dylan\Desktop\Dod-Gy\bin\Debug\netcoreapp3.1\Dod-Gy.runtimeconfig.json
+C:\Users\Dylan\Desktop\Dod-Gy\bin\Debug\netcoreapp3.1\Dod-Gy.runtimeconfig.dev.json
+C:\Users\Dylan\Desktop\Dod-Gy\bin\Debug\netcoreapp3.1\Dod-Gy.dll
+C:\Users\Dylan\Desktop\Dod-Gy\bin\Debug\netcoreapp3.1\Dod-Gy.pdb
+C:\Users\Dylan\Desktop\Dod-Gy\obj\Debug\netcoreapp3.1\Dod-Gy.dll
+C:\Users\Dylan\Desktop\Dod-Gy\obj\Debug\netcoreapp3.1\Dod-Gy.pdb
+C:\Users\Dylan\Desktop\Dod-Gy\obj\Debug\netcoreapp3.1\Dod-Gy.genruntimeconfig.cache
